@@ -25,7 +25,6 @@ Available Controls inside Sorting Visualizer:-
 - Use q to exit out of Sorting Visualizer
 
 # Samples
-# Samples
 
 - Sample 1 (Insertion Sort)
 
