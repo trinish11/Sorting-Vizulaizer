@@ -25,4 +25,13 @@ Available Controls inside Sorting Visualizer:-
 - Use q to exit out of Sorting Visualizer
 
 # Samples
+# Samples
 
+- Sample 1 (Insertion Sort)
+
+![](example1.gif)
+
+
+- Sample 2 (Merge Sort)
+
+![](example2.gif)
